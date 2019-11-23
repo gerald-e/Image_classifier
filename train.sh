@@ -1,0 +1,1 @@
+python3 train.py  --arch vgg16 --gpu True --epochs 10 --hidden_units 100 --lr 0.001

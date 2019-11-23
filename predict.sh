@@ -1,0 +1,1 @@
+python3 predict.py --image_path 'flowers/test/100/image_07926.jpg' --checkpoint 'checkpoint.pth' --gpu True --mapper_json 'cat_to_name.json' --topk 3
